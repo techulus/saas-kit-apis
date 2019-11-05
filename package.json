@@ -1,0 +1,24 @@
+{
+  "name": "saas-kit-apis",
+  "version": "0.0.1",
+  "description": "SaaS Kit APIs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techulus/saas-kit-apis.git"
+  },
+  "keywords": [
+    "saas",
+    "kit",
+    "apis"
+  ],
+  "author": "Arjun Komath <arjunkomath@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techulus/saas-kit-apis/issues"
+  },
+  "homepage": "https://github.com/techulus/saas-kit-apis#readme"
+}
